@@ -18,7 +18,6 @@ REPOSITORY: (committed)
 
 
 
-
 Modified:
     Si la versión del archivo contiene cambios que no son parte del repositorio
     Y NO se ha añadido al staging AREA
@@ -40,12 +39,12 @@ Commit:
 
 
 
-
-
-
+Comandos:
 
 git add <file>
 git rm --cached <file>..." to unstage
+
+git commit -m "texto"
 
 
 
