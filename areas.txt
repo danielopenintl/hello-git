@@ -1,0 +1,51 @@
+WORKING DIRECTORY: (modified)
+    Contiene los archivos y el directorio oculto .git
+
+
+STAGING AREA: (staged)
+    Todavía puedo retractarme.
+    Es un conjunto de archivos y cambios que serán incluidos en el próximo commit
+
+--COMMIT--
+    .
+    .
+    .
+    V
+
+REPOSITORY: (committed)
+(directorio git)
+
+
+
+
+
+Modified:
+    Si la versión del archivo contiene cambios que no son parte del repositorio
+    Y NO se ha añadido al staging AREA
+
+Staged:
+    Si la versión del archivo contiene cambios que no son parte del repositorio
+    Y SI se ha añadido al staging AREA
+
+Committed:
+    YA se añadió al directorio git
+
+
+
+
+Commit: 
+    Es un registro o foto del estado de un proyecto en un momento especifico
+    Registra los cambios que se realizaron en un archivo
+    Cada commit añada un SHA (identificador único)
+
+
+
+
+
+
+
+git add <file>
+git rm --cached <file>..." to unstage
+
+
+
