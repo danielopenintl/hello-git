@@ -43,8 +43,9 @@ Comandos:
 
 git add <file>
 git rm --cached <file>..." to unstage
-
 git commit -m "texto"
+
+
 
 
 
