@@ -46,6 +46,7 @@ git rm --cached <file>..." to unstage
 git commit -m "texto"
 
 
+
 git config --global core.editor "code --wait"
 
 
