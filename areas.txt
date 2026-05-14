@@ -53,6 +53,9 @@ Branch:
 
     ## checkout lo que hace es descargar 
 
+    si edito un archivo, lo guardo, pero no lo stage, puedo devolverme con
+    git checkout <nombredelarchivo>
+
 
     Cambiar nombre estando en ella:
     git branch -m <nuevo-nombre>
