@@ -47,8 +47,8 @@ Branch:
     Crear y moverse:
     git checkout -b <nombre-de-la-rama>
 
-    Moverse:
-    git checkout <nombre-de-la-rama>
+    Moverse es con SWITCH:
+    git switch <nombre-de-la-rama>
     
     Cambiar nombre estando en ella:
     git branch -m <nuevo-nombre>
