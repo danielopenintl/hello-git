@@ -80,8 +80,17 @@ git add <file>
 git rm --cached <file>..." to unstage
 git commit -m "texto"
 
-Para cambiar el editor por defecto
+
+Configuraciones:
+Para cambiar el editor por defecto:
 git config --global core.editor "code --wait"
+
+Para crear un alias de un comando mas largo
+git config --global alias.<nombredelalias> "<comando>"
+
+
+
+
 
 
 git log -p
