@@ -76,6 +76,15 @@ git merge <rama-que-voy-a-traer>
 
 
 
+Stash:
+git stash
+git stash list
+git stash pop
+Es un commit local que no afecta al arbol.
+
+
+
+
 Comandos:
 
 git add <file>
