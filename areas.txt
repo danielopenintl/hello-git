@@ -50,6 +50,10 @@ Branch:
     Moverse es con SWITCH:
     git switch <nombre-de-la-rama>
     
+
+    ## checkout lo que hace es descargar 
+
+
     Cambiar nombre estando en ella:
     git branch -m <nuevo-nombre>
 
