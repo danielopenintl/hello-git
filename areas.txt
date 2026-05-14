@@ -72,13 +72,12 @@ git merge <rama-que-voy-a-traer>
 
 
 
-
-
 Comandos:
 
 git add <file>
 git rm --cached <file>..." to unstage
 git commit -m "texto"
+git commit --amend 
 
 
 Configuraciones:
@@ -89,9 +88,8 @@ Para crear un alias de un comando mas largo
 git config --global alias.<nombredelalias> "<comando>"
 
 
-
-
-
+Comparar lo que se ha cambiado, guardado, pero no staged:
+git diff 
 
 git log -p
 git log --oneline
@@ -104,5 +102,7 @@ git status (the status)
 git add . (stage a file)
 git commit (commit)
 git log (log)
+
+
 
 
