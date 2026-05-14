@@ -63,6 +63,11 @@ Branch:
 
 
 
+Merge:
+    Combinar varias lineas de desarrollo en una sola rama (combinar branches)
+
+DEBO ESTAR EN LA RAMA QUE RECIBIRÁ LA FUSIÓN
+
 
 
 
