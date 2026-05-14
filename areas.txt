@@ -94,6 +94,11 @@ git diff
 git log -p
 git log --oneline
 
+Para devolverse a un estado anterior violentamente
+git reset --hard <HASH>
+
+Historial completo de interacciones
+git reflog
 
 
 Proceso:
