@@ -68,6 +68,8 @@ Merge:
 
 DEBO ESTAR EN LA RAMA QUE RECIBIRÁ LA FUSIÓN
 
+git merge <rama-que-voy-a-traer>
+
 
 
 
