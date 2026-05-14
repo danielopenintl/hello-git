@@ -101,6 +101,11 @@ Historial completo de interacciones
 git reflog
 
 
+Tag para etiquetar milestones:
+git tag "<texto>"
+
+
+
 Proceso:
 
 git status (the status)
