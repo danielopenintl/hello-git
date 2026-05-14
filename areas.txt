@@ -104,7 +104,6 @@ git reflog
 Tag para etiquetar milestones:
 git tag "<texto>"
 
-esto no lo voy a usar, pero ok
 
 Proceso:
 
