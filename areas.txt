@@ -48,7 +48,7 @@ Branch:
     git checkout -b <nombre-de-la-rama>
 
     Moverse:
-    git checkout <nombre-de-la-rama>
+    git switch <nombre-de-la-rama>
     
     Cambiar nombre estando en ella:
     git branch -m <nuevo-nombre>
@@ -85,7 +85,7 @@ Para cambiar el editor por defecto:
 git config --global core.editor "code --wait"
 
 Para crear un alias de un comando mas largo
-git config --global alias.<nombredelalias> "<comando>"
+git config --global alias.<nombredelalias> "<comando sin la palabra git>"
 
 
 Comparar lo que se ha cambiado, guardado, pero no staged:
@@ -96,6 +96,9 @@ git log --oneline
 
 Para devolverse a un estado anterior violentamente
 git reset --hard <HASH>
+
+Deshago el commit, pero los cambios que habia hecho se mantienen y quedan staged
+git reset --soft HEAD~1
 
 Historial completo de interacciones
 git reflog
