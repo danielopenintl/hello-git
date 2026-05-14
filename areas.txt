@@ -39,6 +39,16 @@ Commit:
 
 
 
+Branch:
+    Linea independiente de desarrollo en un repositorio, sin afectar la que está en vivo
+
+
+
+
+
+
+
+
 Comandos:
 
 git add <file>
