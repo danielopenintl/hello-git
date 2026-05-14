@@ -41,11 +41,7 @@ Commit:
 
 Branch:
     Linea independiente de desarrollo en un repositorio, sin afectar la que está en vivo
-
-
-
-
-
+    git branch <nombre-de-la-rama>
 
 
 
@@ -60,5 +56,12 @@ git config --global core.editor "code --wait"
 
 
 
+
+Proceso:
+
+git status (the status)
+git add . (stage a file)
+git commit (commit)
+git log (log)
 
 
