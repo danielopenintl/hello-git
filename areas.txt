@@ -41,7 +41,35 @@ Commit:
 
 Branch:
     Linea independiente de desarrollo en un repositorio, sin afectar la que está en vivo
+    Crear:
     git branch <nombre-de-la-rama>
+
+    Crear y moverse:
+    git checkout -b <nombre-de-la-rama>
+
+    Moverse:
+    git checkout <nombre-de-la-rama>
+    
+    Cambiar nombre estando en ella:
+    git branch -m <nuevo-nombre>
+
+    Sin estar en ella:
+    git branch -m <nombre-viejo> <nombre-nuevo>
+
+    Eliminar branch:
+    git branch -d <nombre-de-la-rama>
+
+    
+
+
+
+    
+
+    DESDE DONDE ESTÉ ES QUE SE CREA Y COPIA LA RAMA
+
+
+
+
 
 
 
