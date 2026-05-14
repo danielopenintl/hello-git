@@ -1,6 +1,6 @@
-def suma (a,b):
-    print (f"la suma es {a+b}")
+def resta (a,b):
+    print (f"la resta es {a-b}")
 
-suma(1,5)
+resta(1,5)
     
     
