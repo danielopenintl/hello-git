@@ -134,3 +134,12 @@ git log (log)
 
 
 
+GITHUB:
+Descarga el historial de cambios, pero sin descargar los cambios:
+git fetch
+
+Descarga el historial de cambios y  los cambios:
+git pull
+
+
+git push
