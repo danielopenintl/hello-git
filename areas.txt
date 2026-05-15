@@ -135,6 +135,10 @@ git log (log)
 
 
 GITHUB:
+
+La prmera vez que se van a traer cambios de un repositorio remoto toca seleccionar qué hacer
+preferiblemente merge
+
 Descarga el historial de cambios, pero sin descargar los cambios:
 git fetch
 
