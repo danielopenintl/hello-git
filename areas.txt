@@ -151,3 +151,6 @@ git push
 
 Clonar el repositorio de github a local
 git clone <url>
+
+
+Fork, para traer un repositorio de otra persona y trabajar en él
