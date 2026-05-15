@@ -153,6 +153,11 @@ Clonar el repositorio de github a local
 git clone <url>
 
 
+
+
+                        COLABORATIVO
+
+
 EN GITHUB:
 Fork, para traer un repositorio de otra persona y trabajar en él
 Trabajo en él
@@ -166,6 +171,10 @@ Pull request PR:
 Contribute ---> Open pull request
 Pongo descripción, etc.
 
+    .
+    .
+    .
+    V
 
 
 El dueño debe aprobar, pedir cambios, etc.
