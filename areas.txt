@@ -145,5 +145,9 @@ git fetch
 Descarga el historial de cambios y  los cambios:
 git pull
 
-
+Sube a github los cambios
 git push
+
+
+Clonar el repositorio de github a local
+git clone <url>
