@@ -180,4 +180,6 @@ Pongo descripción, etc.
 El dueño debe aprobar, pedir cambios, etc.
 Finalmente el dueño debe hacer el merge
 
+En caso de conflictos con las PR se pueden resolver desde github
+
 
