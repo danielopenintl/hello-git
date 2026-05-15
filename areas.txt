@@ -153,4 +153,22 @@ Clonar el repositorio de github a local
 git clone <url>
 
 
+EN GITHUB:
 Fork, para traer un repositorio de otra persona y trabajar en él
+Trabajo en él
+
+    .
+    .
+    .
+    V
+
+Pull request PR:
+Contribute ---> Open pull request
+Pongo descripción, etc.
+
+
+
+El dueño debe aprobar, pedir cambios, etc.
+Finalmente el dueño debe hacer el merge
+
+
